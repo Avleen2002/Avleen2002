@@ -117,15 +117,6 @@ class Me:
 
 <br/>
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-## `> tail -f ./activity.log`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avleen2002&bg_color=0D1117&color=B9A9E6&line=E3DE7A&point=F3E6CF&area=true&area_color=B9A9E6&hide_border=true&radius=10" width="100%" />
-</div>
-
-<br/>
-
 <!-- ═══════════════ SNAKE ═══════════════ -->
 ## `> ./snake --eat-contributions`
 
