@@ -105,9 +105,9 @@ class Me:
 
 <div align="center">
 
-<img src="./assets/stats.svg" alt="GitHub stats" width="720" />
+<!-- <img src="./assets/stats.svg" alt="GitHub stats" width="720" />
 
-<br/>
+<br/> -->
 
 <img src="https://streak-stats.demolab.com?user=Avleen2002&hide_border=true&background=0D1117&ring=E3DE7A&fire=E8743B&currStreakLabel=E3DE7A&currStreakNum=F3E6CF&sideNums=F3E6CF&sideLabels=B9A9E6&dates=8A93B2" />
 
