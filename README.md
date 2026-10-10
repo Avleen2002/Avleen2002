@@ -34,6 +34,16 @@ class Me:
 
 <br/>
 
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+## `> cat ./achievements.md`
+
+- 🏆 **1st Place**, Mountain Madness 2025 (*Escape the Madness*)
+- 🌸 **WiCS Award**, Root Hacks hackathon at SFU (*BinIt!*)
+- 🥈 **Runner-up**, Deloitte ThinkTECH 2023 (*Bus Frequency Map*)
+- 🎨 **MIT "Most Creative App of the Month"**, June 2020 (*Masker Aid*)
+
+<br/>
+
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## `> ls ./skills`
 
@@ -43,13 +53,13 @@ class Me:
 |:--|:--|
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=py&theme=dark" width="44" height="44" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C" title="C" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" title="C++" /> <img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" height="44" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="44" height="44" alt="Kotlin" title="Kotlin" /> <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=r&theme=dark" width="44" height="44" alt="R" title="R" /> <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML5" title="HTML5" /> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" alt="CSS3" title="CSS3" /><br/><img src="https://img.shields.io/badge/SQL-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/C++17-2A2F45?style=flat-square" /> |
 | **🧠 AI & Data Science** | <img src="https://skillicons.dev/icons?i=py&theme=dark" width="44" height="44" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=r&theme=dark" width="44" height="44" alt="R" title="R" /> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" height="44" alt="TensorFlow" title="TensorFlow" /> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" height="44" alt="scikit-learn" title="scikit-learn" /> <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="44" height="44" alt="pandas" title="pandas" /> <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="44" height="44" alt="NumPy" title="NumPy" /><br/><img src="https://img.shields.io/badge/PCA-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/SMOTE-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/SVM-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Random_Forest-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/K--Means++-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/LASSO-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/LOF_%2F_Elliptic_Envelope-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Hidden_Markov_Models-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Anomaly_Detection-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Image_Recognition-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Feature_Engineering-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Cross--Validation-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Hyperparameter_Tuning-2A2F45?style=flat-square" /> |
-| **🌐 Web Development** | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML5" title="HTML5" /> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" alt="CSS3" title="CSS3" /> <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="44" height="44" alt="Firebase" title="Firebase" /><br/><img src="https://img.shields.io/badge/Chrome_Extensions-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/State_Management-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Event--Driven_UI-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Interactive_Games-2A2F45?style=flat-square" /> |
+| **🌐 Web Development** | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML5" title="HTML5" /> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" alt="CSS3" title="CSS3" /> <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="44" height="44" alt="Vercel" title="Vercel" /> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="44" height="44" alt="Firebase" title="Firebase" /><br/><img src="https://img.shields.io/badge/Chrome_Extensions-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Deployment-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/State_Management-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Event--Driven_UI-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Interactive_Games-2A2F45?style=flat-square" /> |
 | **📱 Mobile & Desktop Apps** | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" height="44" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="44" height="44" alt="Kotlin" title="Kotlin" /> <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="44" height="44" alt="Android Studio" title="Android Studio" /> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="44" height="44" alt="Firebase" title="Firebase" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" title="C++" /> <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="44" height="44" alt="Visual Studio" title="Visual Studio" /><br/><img src="https://img.shields.io/badge/Android_Apps-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Authentication-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Role--Based_Access-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Menu--Driven_Interfaces-2A2F45?style=flat-square" /> |
 | **⚙️ Systems & Low-Level** | <img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C" title="C" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" title="C++" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" height="44" alt="Bash" title="Bash" /><br/><img src="https://img.shields.io/badge/Multithreading-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Two--Phase_Locking-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Write--Ahead_Logging-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/LRU_Buffer_Manager-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Skip_Lists-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Direct_I%2FO-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/fork%28%29_%2F_exec%28%29-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Unix_Shell-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Valgrind-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Memory_Management-2A2F45?style=flat-square" /> |
 | **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="44" height="44" alt="SQLite" title="SQLite" /> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="44" height="44" alt="Firebase" title="Firebase" /><br/><img src="https://img.shields.io/badge/SQL-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Storage_Engines-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Indexing-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Transactions-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Database_Design-2A2F45?style=flat-square" /> |
 | **🔐 Networking & Security** | <img src="https://skillicons.dev/icons?i=py&theme=dark" width="44" height="44" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" height="44" alt="Bash" title="Bash" /><br/><img src="https://img.shields.io/badge/TCP_%2F_UDP-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Transport_Protocol_Design-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Congestion_Control-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Sliding_Window-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Onion_Routing-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Diffie--Hellman-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/AES--256-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/SHA--256-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Scapy-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Sockets-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Port_Scanning-2A2F45?style=flat-square" /> |
 | **🎨 Design & UX** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" height="44" alt="Figma" title="Figma" /><br/><img src="https://img.shields.io/badge/Prototyping-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Human--Centred_Design-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Heuristic_Evaluation-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/User_Testing-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Accessibility-2A2F45?style=flat-square" /> |
-| **🧰 Tools I Use** | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="44" height="44" alt="Visual Studio" title="Visual Studio" /> <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="44" height="44" alt="Android Studio" title="Android Studio" /> <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" height="44" alt="Figma" title="Figma" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" height="44" alt="Bash" title="Bash" /><br/><img src="https://img.shields.io/badge/Valgrind-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Scapy-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Firebase-2A2F45?style=flat-square" /> |
+| **🧰 Tools I Use** | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="44" height="44" alt="Vercel" title="Vercel" /> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="44" height="44" alt="Visual Studio" title="Visual Studio" /> <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="44" height="44" alt="Android Studio" title="Android Studio" /> <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" height="44" alt="Figma" title="Figma" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" height="44" alt="Bash" title="Bash" /><br/><img src="https://img.shields.io/badge/Valgrind-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Scapy-2A2F45?style=flat-square" /> <img src="https://img.shields.io/badge/Firebase-2A2F45?style=flat-square" /> |
 
 </div>
 
@@ -90,23 +100,12 @@ class Me:
 
 <br/>
 
-<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-## `> cat ./achievements.md`
-
-- 🏆 **1st Place**, Mountain Madness 2025 (*Escape the Madness*)
-- 🌸 **WiCS Award**, Root Hacks hackathon at SFU (*BinIt!*)
-- 🥈 **Runner-up**, Deloitte ThinkTECH 2023 (*Bus Frequency Map*)
-- 🎨 **MIT "Most Creative App of the Month"**, June 2020 (*Masker Aid*)
-
-<br/>
-
 <!-- ═══════════════ STATS ═══════════════ -->
 ## `> cat ./stats.json`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Avleen2002&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7&ring_color=E3DE7A&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avleen2002&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3DE7A&text_color=E8D5B7" />
+<img src="./assets/stats.svg" alt="GitHub stats" width="720" />
 
 <br/>
 
@@ -134,16 +133,16 @@ class Me:
 <div align="center">
 
 <a href="https://github.com/Avleen2002/BinIt">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=BinIt&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=BinIt&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7&v=2" />
 </a>
 <a href="https://github.com/Avleen2002/Anomaly-Detection-with-HMM-in-R">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=Anomaly-Detection-with-HMM-in-R&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=Anomaly-Detection-with-HMM-in-R&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7&v=2" />
 </a>
 <a href="https://github.com/Avleen2002/Port-Scanner">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=Port-Scanner&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=Port-Scanner&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7&v=2" />
 </a>
 <a href="https://github.com/Avleen2002/myShell-C">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=myShell-C&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avleen2002&repo=myShell-C&hide_border=true&bg_color=0D1117&title_color=E3DE7A&icon_color=B9A9E6&text_color=E8D5B7&v=2" />
 </a>
 
 </div>
@@ -153,10 +152,13 @@ class Me:
 <!-- ═══════════════ ALGORITHM CORNER ═══════════════ -->
 ## `> cat ./algorithm_corner.md`
 
-<details>
-<summary><b>🥞 Click to expand: my favorite algorithm of the week (pancake sort)</b></summary>
+<div align="center">
 
-<br/>
+<table>
+<tr>
+<td valign="top" align="left">
+
+**🥞 My favorite algorithm of the week: pancake sort**
 
 ```c
 void pancakeSort(int* arr, int n) {
@@ -172,11 +174,16 @@ void pancakeSort(int* arr, int n) {
 }
 ```
 
-<div align="center">
-  <img src="./assets/pancake-sort.gif" alt="Pancake sort animation" width="500" />
-</div>
+<sub>Sort using nothing but prefix flips, like a spatula in a stack of pancakes.</sub>
 
-</details>
+</td>
+<td valign="middle" align="center">
+  <img src="./assets/pancake-sort.gif" alt="Pancake sort animation" height="380" />
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -186,10 +193,13 @@ void pancakeSort(int* arr, int n) {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/avleen-kaur-virdi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E3DE7A&color=0D1117&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UzREU3QSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&color=0D1117&labelColor=0D1117" />
 </a>
 <a href="https://www.instagram.com/alicevirdi2002/">
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B9A9E6&color=0D1117&labelColor=0D1117" />
+</a>
+<a href="https://devpost.com/Avleen2002">
+  <img src="https://img.shields.io/badge/Devpost-0D1117?style=for-the-badge&logo=devpost&logoColor=E8D5B7&color=0D1117&labelColor=0D1117" />
 </a>
 <a href="mailto:alicevirdi2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8743B&color=0D1117&labelColor=0D1117" />
