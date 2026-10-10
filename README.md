@@ -27,7 +27,6 @@ class Me:
     obsessions = ["Algorithms", "Data Structures", "Creative Coding", "Data Science"]
     superpower = "Making technology feel a little more like art"
     currently  = "Building a Workplace burnout detection model"
-    companions = ["a very observant black cat", "one small, unbothered bird"]
 
     def say_hi(self):
         return "Let's build something awesome together ✨"
