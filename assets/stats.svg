@@ -17,7 +17,7 @@
   <text class="m fade" x="40" y="154" font-size="15" fill="#AEB6D6" style="animation-delay:0.18s">Stars Earned</text>
   <text class="t fade" x="370" y="155" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.18s">0</text>
   <text class="m fade" x="40" y="196" font-size="15" fill="#AEB6D6" style="animation-delay:0.26s">Commits (public)</text>
-  <text class="t fade" x="370" y="197" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.26s">107</text>
+  <text class="t fade" x="370" y="197" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.26s">108</text>
   <text class="m fade" x="40" y="238" font-size="15" fill="#AEB6D6" style="animation-delay:0.34s">Pull Requests</text>
   <text class="t fade" x="370" y="239" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.34s">3</text>
   <text class="m fade" x="40" y="280" font-size="15" fill="#AEB6D6" style="animation-delay:0.42s">Followers</text>
