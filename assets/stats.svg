@@ -13,33 +13,37 @@
   <rect x="40" y="70" width="330" height="1.5" fill="#E3DE7A" opacity=".25"/>
   <rect x="430" y="70" width="370" height="1.5" fill="#E3DE7A" opacity=".25"/>
   <text class="m fade" x="40" y="112" font-size="15" fill="#AEB6D6" style="animation-delay:0.10s">Public Repos</text>
-  <text class="t fade" x="370" y="113" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.10s">11</text>
+  <text class="t fade" x="370" y="113" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.10s">13</text>
   <text class="m fade" x="40" y="154" font-size="15" fill="#AEB6D6" style="animation-delay:0.18s">Stars Earned</text>
   <text class="t fade" x="370" y="155" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.18s">0</text>
   <text class="m fade" x="40" y="196" font-size="15" fill="#AEB6D6" style="animation-delay:0.26s">Commits (public)</text>
-  <text class="t fade" x="370" y="197" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.26s">108</text>
+  <text class="t fade" x="370" y="197" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.26s">117</text>
   <text class="m fade" x="40" y="238" font-size="15" fill="#AEB6D6" style="animation-delay:0.34s">Pull Requests</text>
   <text class="t fade" x="370" y="239" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.34s">3</text>
   <text class="m fade" x="40" y="280" font-size="15" fill="#AEB6D6" style="animation-delay:0.42s">Followers</text>
   <text class="t fade" x="370" y="281" font-size="22" font-weight="bold" fill="#F3E6CF" text-anchor="end" style="animation-delay:0.42s">1</text>
-  <text class="m fade" x="430" y="112" font-size="14" fill="#E8D5B7" style="animation-delay:0.15s">Python</text>
+  <text class="m fade" x="430" y="112" font-size="14" fill="#E8D5B7" style="animation-delay:0.15s">HTML</text>
   <rect x="570" y="101" width="170" height="10" rx="5" fill="#1A1E30"/>
   <rect class="bar" x="570" y="101" width="170.0" height="10" rx="5" fill="#E3DE7A" style="animation-delay:0.15s"/>
-  <text class="m fade" x="800" y="112" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.15s">51.7%</text>
-  <text class="m fade" x="430" y="148" font-size="14" fill="#E8D5B7" style="animation-delay:0.25s">C</text>
+  <text class="m fade" x="800" y="112" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.15s">99.3%</text>
+  <text class="m fade" x="430" y="148" font-size="14" fill="#E8D5B7" style="animation-delay:0.25s">Python</text>
   <rect x="570" y="137" width="170" height="10" rx="5" fill="#1A1E30"/>
-  <rect class="bar" x="570" y="137" width="76.6" height="10" rx="5" fill="#B9A9E6" style="animation-delay:0.25s"/>
-  <text class="m fade" x="800" y="148" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.25s">23.3%</text>
-  <text class="m fade" x="430" y="184" font-size="14" fill="#E8D5B7" style="animation-delay:0.35s">JavaScript</text>
+  <rect class="bar" x="570" y="137" width="4.0" height="10" rx="5" fill="#B9A9E6" style="animation-delay:0.25s"/>
+  <text class="m fade" x="800" y="148" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.25s">0.5%</text>
+  <text class="m fade" x="430" y="184" font-size="14" fill="#E8D5B7" style="animation-delay:0.35s">C</text>
   <rect x="570" y="173" width="170" height="10" rx="5" fill="#1A1E30"/>
-  <rect class="bar" x="570" y="173" width="46.7" height="10" rx="5" fill="#E8743B" style="animation-delay:0.35s"/>
-  <text class="m fade" x="800" y="184" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.35s">14.2%</text>
-  <text class="m fade" x="430" y="220" font-size="14" fill="#E8D5B7" style="animation-delay:0.45s">CSS</text>
+  <rect class="bar" x="570" y="173" width="4.0" height="10" rx="5" fill="#E8743B" style="animation-delay:0.35s"/>
+  <text class="m fade" x="800" y="184" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.35s">0.1%</text>
+  <text class="m fade" x="430" y="220" font-size="14" fill="#E8D5B7" style="animation-delay:0.45s">JavaScript</text>
   <rect x="570" y="209" width="170" height="10" rx="5" fill="#1A1E30"/>
-  <rect class="bar" x="570" y="209" width="19.2" height="10" rx="5" fill="#E8D5B7" style="animation-delay:0.45s"/>
-  <text class="m fade" x="800" y="220" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.45s">5.8%</text>
-  <text class="m fade" x="430" y="256" font-size="14" fill="#E8D5B7" style="animation-delay:0.55s">HTML</text>
+  <rect class="bar" x="570" y="209" width="4.0" height="10" rx="5" fill="#E8D5B7" style="animation-delay:0.45s"/>
+  <text class="m fade" x="800" y="220" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.45s">0.1%</text>
+  <text class="m fade" x="430" y="256" font-size="14" fill="#E8D5B7" style="animation-delay:0.55s">CSS</text>
   <rect x="570" y="245" width="170" height="10" rx="5" fill="#1A1E30"/>
-  <rect class="bar" x="570" y="245" width="16.2" height="10" rx="5" fill="#6B7A9E" style="animation-delay:0.55s"/>
-  <text class="m fade" x="800" y="256" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.55s">4.9%</text>
+  <rect class="bar" x="570" y="245" width="4.0" height="10" rx="5" fill="#6B7A9E" style="animation-delay:0.55s"/>
+  <text class="m fade" x="800" y="256" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.55s">0.0%</text>
+  <text class="m fade" x="430" y="292" font-size="14" fill="#E8D5B7" style="animation-delay:0.65s">Batchfile</text>
+  <rect x="570" y="281" width="170" height="10" rx="5" fill="#1A1E30"/>
+  <rect class="bar" x="570" y="281" width="4.0" height="10" rx="5" fill="#8A93B2" style="animation-delay:0.65s"/>
+  <text class="m fade" x="800" y="292" font-size="13" fill="#AEB6D6" text-anchor="end" style="animation-delay:0.65s">0.0%</text>
 </svg>
